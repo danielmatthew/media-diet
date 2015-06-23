@@ -1,0 +1,142 @@
+# 2015 “Media Diet”*
+
+## Literature
+- The Martian (Andy Weir)
+- The Road (Cormac McCarthy)
+- Stardust (Neil Gaiman)
+- Creativity, Inc (Ed Catmull)
+
+## Film
+- Jurassic World
+- Zombeavers
+- Gravity
+- Interstellar
+- Cast Away
+- True Grit
+- Black Sea
+- It Follows
+- No Country For Old Men
+- Prometheus
+- The Grey
+- The Edge
+- Edge of Tomorrow
+- Apollo 13
+- Centurion
+- Tron Legacy
+- Days of Heaven
+- Dawn of the Planet of the Apes
+- Ex Machina
+- A Most Violent Year
+- Lost River
+- Ex Machina
+- The Two Faces of January
+- Kon-Tiki
+- Mad Max: Fury Road
+- Mad Max Beyond Thunderdome
+- Mad Max 2: The Road Warrior
+- Mad Max
+- Spider-Man 3
+- 180 South
+- The Summit
+- The Inbetweeners 2
+- The Young Victoria
+- Guardians of the Galaxy
+- Fruitvale Station
+- Chinatown
+- Only God Forgives
+- Mr Brooks
+- Avengers: Age of Ultron
+- Captain American: The Winter Solider
+- X-Men: Days of Future Past
+- All Good Things
+- A Most Violent Year
+- Fast & Furious 7
+- Stoker
+- Dom Hemingway
+- Road to Perdition
+- John Wick
+- Cold In July
+- That Awkward Moment
+- Beauty and the Beast
+- The Imitation Game
+- The Canyons
+- Birdman
+- Boogie Nights
+- Arbitrage
+- The Firm
+- Primal Fear
+- The Babadook
+- Deliver Us From Evil
+- Miller’s Crossing
+- ’71
+- Willow Creek
+- VHS2
+- The Shining
+- Jurassic Park
+- Stardust
+- Bad Neighbours
+- Dredd
+- The Guest
+- Drive
+- Dallas Buyers Club
+- The Theory of Everything
+- Delivery Man
+- Frank
+- How To Train Your Dragon 2
+- Locke
+- The Guest
+- Whiplash (x2)
+- Nightcrawler (x2)
+- Diamonds Are Forever
+- Ex Machina
+- Non-Stop
+- The Drop
+- OHMSS
+- A Walk Among The Tombstones
+- Footloose
+- A History of Violence
+- Enemy
+- Chef
+- West Side Story
+- Under the Skin
+- Birdman
+- Starred Up
+- 12 Years A Slave
+- The Grand Budapest Hotel
+- You Only Live Twice
+- The Thing
+- Mystic River
+- Dredd
+- Bernie
+- The Wolf of Wall Street
+- Tucker and Dale vs Evil
+- Thunderball
+- Goldfinger
+
+## TV
+- The Brink (S1)
+- True Detective (S2)
+- Halt and Catch Fire (S2)
+- The Wire (S5)
+- The Wire (S4)
+- Fortitude
+- 100 Miles From Nowhere
+- Bear Grylls Breaking Point
+- Hannibal (S3)
+- Silicon Valley S2
+- Silicon Valley S1
+- Game of Thrones (S5)
+- Bloodline
+- Better Call Saul
+- House of Cards (S3)
+- Fargo
+- Broadchurch (S2)
+- Halt and Catch Fire (S1)
+- The Sopranos
+
+## Music
+- Major Lazer
+- Nils Frahm
+- Aventine, Agnes Nobel
+
+* Thanks, Zuckerberg 
