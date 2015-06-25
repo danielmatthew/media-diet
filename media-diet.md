@@ -1,10 +1,17 @@
-# 2015 “Media Diet”*
+# 2015 “Media Diet”
 
 ## Literature
+### Books
 - The Martian (Andy Weir)
 - The Road (Cormac McCarthy)
 - Stardust (Neil Gaiman)
 - Creativity, Inc (Ed Catmull)
+
+### Magazines
+- Esquire
+- Offscreen
+- Cereal
+- Sidetracked
 
 ## Film
 - Jurassic World
