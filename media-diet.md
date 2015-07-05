@@ -2,6 +2,7 @@
 
 ## Literature
 ### Books
+- The Bone Clocks (David Mitchell)
 - The Martian (Andy Weir)
 - The Road (Cormac McCarthy)
 - Stardust (Neil Gaiman)
@@ -15,6 +16,10 @@
 - National Geographic
 
 ## Film
+- The Road
+- Fury
+- Clear History
+- Slow West
 - Jurassic World
 - Zombeavers
 - Gravity
@@ -122,6 +127,7 @@
 - Goldfinger
 
 ## TV
+- Seinfeld
 - The Brink (S1)
 - True Detective (S2)
 - Halt and Catch Fire (S2)
