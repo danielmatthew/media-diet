@@ -2,6 +2,7 @@
 
 ## Literature
 ### Books
+- Hipster Business Models
 - The Bone Clocks (David Mitchell)
 - The Martian (Andy Weir)
 - The Road (Cormac McCarthy)
