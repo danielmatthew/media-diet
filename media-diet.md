@@ -2,6 +2,7 @@
 
 ## Literature
 ### Books
+- No Country for Old Men (Cormac McCarthy)
 - Hipster Business Models
 - The Bone Clocks (David Mitchell)
 - The Martian (Andy Weir)
@@ -17,6 +18,11 @@
 - National Geographic
 
 ## Film
+- Jurassic World
+- Chef
+- The Lion King
+- Guardians of the Galaxy
+- I Love You, Man
 - The Road
 - Fury
 - Clear History
@@ -153,5 +159,12 @@
 - Major Lazer
 - Nils Frahm
 - Aventine, Agnes Nobel
+ 
+## Podcasts
+- ATP
+- Serial
+- Filler
+- Football Weekly
+- 
 
 * Thanks, Zuckerberg 
