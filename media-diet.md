@@ -3,6 +3,8 @@
 ## Literature
 ### Books
 - No Country for Old Men (Cormac McCarthy)
+- Quiet
+- Hooked
 - Hipster Business Models
 - The Bone Clocks (David Mitchell)
 - The Martian (Andy Weir)
@@ -18,7 +20,7 @@
 - National Geographic
 
 ## Film
-- Jurassic World
+- Jeff Who Lives At Home
 - Chef
 - The Lion King
 - Guardians of the Galaxy
@@ -27,7 +29,7 @@
 - Fury
 - Clear History
 - Slow West
-- Jurassic World
+- Jurassic World (x2)
 - Zombeavers
 - Gravity
 - Interstellar
@@ -165,6 +167,5 @@
 - Serial
 - Filler
 - Football Weekly
-- 
 
 * Thanks, Zuckerberg 
