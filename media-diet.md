@@ -2,6 +2,7 @@
 
 ## Literature
 ### Books
+- Blood Meridian (Cormac McCarthy)
 - No Country for Old Men (Cormac McCarthy)
 - Quiet
 - Hooked
@@ -20,6 +21,7 @@
 - National Geographic
 
 ## Film
+- Kramer vs. Kramer
 - Jeff Who Lives At Home
 - Chef
 - The Lion King
