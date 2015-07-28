@@ -21,6 +21,8 @@
 - National Geographic
 
 ## Film
+- Southpaw
+- Force Majeure
 - Kramer vs. Kramer
 - Jeff Who Lives At Home
 - Chef
@@ -138,6 +140,7 @@
 - Goldfinger
 
 ## TV
+- Entourage (S1)
 - Seinfeld
 - The Brink (S1)
 - True Detective (S2)
@@ -160,6 +163,8 @@
 - The Sopranos
 
 ## Music
+- The Weeknd
+- Frank Ocean
 - Major Lazer
 - Nils Frahm
 - Aventine, Agnes Nobel
