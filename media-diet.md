@@ -2,6 +2,7 @@
 
 ## Literature
 ### Books
+- The Life-Changing Magic of Tidying (Marie Kondo)
 - Blood Meridian (Cormac McCarthy)
 - No Country for Old Men (Cormac McCarthy)
 - Quiet
@@ -21,6 +22,7 @@
 - National Geographic
 
 ## Film
+- Shrek
 - Southpaw
 - Force Majeure
 - Kramer vs. Kramer
