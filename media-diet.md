@@ -22,6 +22,7 @@
 - National Geographic
 
 ## Film
+- Training Day
 - End of Watch
 - Deliverance
 - The Five Year Engagement
@@ -146,6 +147,7 @@
 - Goldfinger
 
 ## TV
+- Mr Robot
 - Entourage (S1)
 - Seinfeld
 - The Brink (S1)
