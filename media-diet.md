@@ -148,6 +148,7 @@
 - Goldfinger
 
 ## TV
+- Show Me A Hero
 - Mr Robot
 - Entourage (S1)
 - Seinfeld
