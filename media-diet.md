@@ -22,6 +22,9 @@
 - National Geographic
 
 ## Film
+- Inglourious Basterds
+- Pulp Fiction
+- The Hobbit: Battle of the Five Armies
 - Prisoners
 - Training Day
 - End of Watch
@@ -148,6 +151,7 @@
 - Goldfinger
 
 ## TV
+- Narcos
 - Show Me A Hero
 - Mr Robot
 - Entourage (S1)
