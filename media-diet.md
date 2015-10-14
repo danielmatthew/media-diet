@@ -151,6 +151,8 @@
 - Goldfinger
 
 ## TV
+- Red Oaks
+- Patagonia
 - Narcos
 - Show Me A Hero
 - Mr Robot
