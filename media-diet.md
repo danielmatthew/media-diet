@@ -151,6 +151,9 @@
 - Goldfinger
 
 ## TV
+- Hand of God
+- Sneaky Pete
+- Running Wild 
 - Red Oaks
 - Patagonia
 - Narcos
