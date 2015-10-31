@@ -2,6 +2,7 @@
 
 ## Literature
 ### Books
+- The Bone Clocks (David Mitchell)
 - The Life-Changing Magic of Tidying (Marie Kondo)
 - Blood Meridian (Cormac McCarthy)
 - No Country for Old Men (Cormac McCarthy)
@@ -15,6 +16,7 @@
 - Creativity, Inc (Ed Catmull)
 
 ### Magazines
+- Lagom
 - Esquire
 - Offscreen
 - Cereal
@@ -22,6 +24,11 @@
 - National Geographic
 
 ## Film
+- The Silence of the Lambs
+- The Man with the Golden Gun
+- Live and Let Die
+- Wall Street: Money Never Sleeps
+- Sicario
 - Inglourious Basterds
 - Pulp Fiction
 - The Hobbit: Battle of the Five Armies
