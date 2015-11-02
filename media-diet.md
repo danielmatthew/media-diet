@@ -24,6 +24,7 @@
 - National Geographic
 
 ## Film
+- Event Horizon
 - The Spy Who Loved Me
 - The Silence of the Lambs
 - The Man with the Golden Gun
@@ -201,5 +202,3 @@
 - Serial
 - Filler
 - Football Weekly
-
-* Thanks, Zuckerberg 
