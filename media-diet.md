@@ -2,6 +2,7 @@
 
 ## Literature
 ### Books
+- Humans
 - The Bone Clocks (David Mitchell)
 - The Life-Changing Magic of Tidying (Marie Kondo)
 - Blood Meridian (Cormac McCarthy)
@@ -24,6 +25,10 @@
 - National Geographic
 
 ## Film
+- Star Wars
+- Steve Jobs
+- Spectre
+- For Your Eyes Only
 - Event Horizon
 - The Spy Who Loved Me
 - The Silence of the Lambs
@@ -160,6 +165,9 @@
 - Goldfinger
 
 ## TV
+- Master of None
+- The Man in the High Castle
+- Sherlock
 - Hand of God
 - Sneaky Pete
 - Running Wild 
@@ -191,6 +199,7 @@
 - The Sopranos
 
 ## Music
+- Grimes
 - The Weeknd
 - Frank Ocean
 - Major Lazer
@@ -198,6 +207,7 @@
 - Aventine, Agnes Nobel
  
 ## Podcasts
+- Hello, Internet
 - ATP
 - Serial
 - Filler
