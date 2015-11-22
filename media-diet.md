@@ -165,6 +165,7 @@
 - Goldfinger
 
 ## TV
+- The Knick
 - Master of None
 - The Man in the High Castle
 - Sherlock
