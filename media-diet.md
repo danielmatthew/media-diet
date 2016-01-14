@@ -25,6 +25,9 @@
 - National Geographic
 
 ## Film
+- The Hateful Eight
+- Inside Out
+- Bone Tomahawk
 - Creed
 - Shaun of the Dead
 - The Matrix
@@ -170,6 +173,8 @@
 - Goldfinger
 
 ## TV
+- Making of a Murderer
+- Parks & Recreation (S1, S2)
 - The Knick
 - Master of None
 - The Man in the High Castle
